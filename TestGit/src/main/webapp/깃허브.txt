@@ -49,10 +49,30 @@ Git Repositories -> Working Tree -> .gitgnore 클릭
  
  학원에서 - 깃허브 커밋 푸시 풀 공부 를 했음.
  
-
-
  
  
+ 
+ 
+ 
+ <한 작업마무리 Process>
+ 
+ 파일생성(개발) -> commit(나만의save) -> push(다같이볼수잇게끔) 
+ -> ... 끝   
+ 
+ --- 사이에 Synchronize 해주고 pull 해주는 과정이 필수적임 ----
+ 
+ 
+ <2 작업마무리 Process>
+ 파일생성(개발) -> commit(나만의save) -> push(다같이볼수잇게끔) 
+ -> ... 끝   (무한반복)
+
+ 
+  --- 사이에 Synchronize 해주고 pull 해주는 과정이 필수적임 ----
+ 
+ 
+ <3 작업마무리 Process>
+ 파일생성(개발) -> commit(나만의save) -> push(다같이볼수잇게끔) 
+ -> ... 끝   (무한반복)
 
 
 
