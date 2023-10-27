@@ -1,0 +1,49 @@
+깃허브.txt
+
+오늘수업한 내용
+
+Eclipese -> Dynamic Web PJ 생성 (GIT 용)
+(TEAM -> SHARE 해주고 COMMIT 까지 되는지 확인!)
+
+
+git bash 들어가서
+
+git config -- global user.name "Kira 7124"
+git config -- global user.email "afc2015@naver.com"
+
+환경설정 완료
+gitnore -> ignore 파일 저장 (Windows , macOs, eclipse , Java ...)
+
+
+
+eclipse 들어가서 
+
+
+team -> share 설정 -> commit 누르기
+ 
+ 
+Git Repositories -> Working Tree -> .gitgnore 클릭
+거기에 ignore 파일 Ctrl + C + V 해서 전체 수정!
+ 
+ 
+.classpath
+.project
+(### Eclipse ### 젤 끝에 위 2가지 추가해주기!) 
+ 
+ 
+ 오른쪽에 Git Staging 창안에
+ 
+ Unstaged Changes 에서  ++ 버튼 눌러주면
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+
+
+
+
