@@ -41,9 +41,9 @@ Git Repositories -> Working Tree -> .gitgnore 클릭
  
  하고 진행~ ( 그 이후는 저장 스샷 확인 )
  
+ 1번더 바뀜.
  
- 
- 
+
 
  
  
