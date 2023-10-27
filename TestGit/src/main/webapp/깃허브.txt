@@ -46,6 +46,9 @@ Git Repositories -> Working Tree -> .gitgnore 클릭
  
  집에서 복습하기 끝.
  
+ 
+ 학원에서 - 깃허브 커밋 푸시 풀 공부 를 했음.
+ 
 
 
  
