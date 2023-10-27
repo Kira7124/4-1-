@@ -35,6 +35,11 @@ Git Repositories -> Working Tree -> .gitgnore 클릭
  
  Unstaged Changes 에서  ++ 버튼 눌러주면
  
+ Staged Changes 로 다 바뀜
+ 
+ 그다음 밑에 구름모양 commit~ 클릭 push HEAD 뜨게끔
+ 
+ 하고 진행~ ( 그 이후는 저장 스샷 확인 )
  
  
  
