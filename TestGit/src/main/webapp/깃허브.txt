@@ -43,6 +43,9 @@ Git Repositories -> Working Tree -> .gitgnore 클릭
  
  1번더 바뀜.
  
+ 
+ 집에서 복습하기 끝.
+ 
 
 
  
